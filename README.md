@@ -102,16 +102,15 @@ This course covers the **concepts, patterns, and practice** of that craft:
 
 ## 🧭 Course Roadmap
 
-> 🚧 **Work in progress** — modules will be published here as they are developed.
+> 📘 **The full curriculum is in [CURRICULUM.md](CURRICULUM.md).** It has 20 lessons in 6 levels.
+> Each lesson adds one station to a software factory you build around a practice repo.
 
-- [ ] **Module 0 — Orientation:** Why agentic engineering, and why now?
-- [ ] **Module 1 — Agent Fundamentals:** LLMs, tools, planning, and context
-- [ ] **Module 2 — Context Engineering:** Feeding agents the *right* information
-- [ ] **Module 3 — Agent Workflow Design (AWD):** Roles, handoffs, orchestration
-- [ ] **Module 4 — Verification & Guardrails:** Tests, reviews, and quality gates
-- [ ] **Module 5 — The Agentic SDLC:** Specs → build → verify → integrate
-- [ ] **Module 6 — The Software Factory:** Scaling to full agentic production lines
-- [ ] **Module 7 — Capstone:** Design and run your own software factory
+- [ ] **[Level 0 — Orientation](CURRICULUM.md#level-0--orientation):** the factory mental model, your practice repo, the logbook
+- [ ] **[Level 1 — In the Loop](CURRICULUM.md#level-1--in-the-loop):** the atom (prompt → agent → review), context, planning, closed loops
+- [ ] **[Level 2 — Out of the Loop](CURRICULUM.md#level-2--out-of-the-loop):** headless agents, your first ADWs, contracts and gates, traces, the SDLC chain
+- [ ] **[Level 3 — The Factory Floor](CURRICULUM.md#level-3--the-factory-floor):** worktrees and sandboxes, intake queue, router, hotfix lane
+- [ ] **[Level 4 — Scale and Trust](CURRICULUM.md#level-4--scale-and-trust):** evals, multi-agent orchestration, agents that learn, packaging
+- [ ] **[Level 5 — Capstone](CURRICULUM.md#level-5--capstone):** zero-touch engineering on your own codebase
 
 ---
 
